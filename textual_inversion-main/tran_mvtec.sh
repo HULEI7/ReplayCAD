@@ -1,0 +1,16 @@
+
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/screw --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/metal_nut --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/transistor --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_3_direction.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/grid --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/bottle --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/cable --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/pill --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/toothbrush --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/wood --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/leather --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/capsule --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/hazelnut --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/carpet --init_word screw
+python main.py --base textual_inversion-main/configs/latent-diffusion/add_mask_no_flip.yaml -t --actual_resume textual_inversion-main/models/model.ckpt -n LD_mvtec_addmask --gpus 0,1 --data_root data/mvtec_generate/tile --init_word screw
+

@@ -1,0 +1,4 @@
+*.pyc
+textual_inversion-main/clip-vit-large-patch14
+*.ckpt
+textual_inversion-main/models/bert/bert-base-uncased
