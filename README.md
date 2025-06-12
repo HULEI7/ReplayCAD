@@ -2,7 +2,7 @@
 
 
 ## 📅 News
-- **[Befor 2025.07.01]** We release the training code.
+- **[2025.06.12]** We release the training code.
 - **[2025.05.10]** We release the [arXiv paper](https://arxiv.org/abs/2505.06603).
 - **[2025.04.29]** 🎉🎉🎉 Our ReplayCAD is accepted by IJCAI 2025.
 
