@@ -2,6 +2,7 @@
 
 
 ## 📅 News
+- **[2026.06.18]** 🎉🎉🎉 Our [IMMoE](https://github.com/HULEI7/IMMoE) is accepted by ECCV 2026.
 - **[2025.06.18]** We release the training code.
 - **[2025.05.10]** We release the [arXiv paper](https://arxiv.org/abs/2505.06603).
 - **[2025.04.29]** 🎉🎉🎉 Our ReplayCAD is accepted by IJCAI 2025.
@@ -103,11 +104,19 @@ After completing the above training, we trained the anomaly detection model usin
 ## Citation
 If you find our work inspiring or use our codebase in your research, please cite our work:
 ```
-@article{hu2025replaycad,
-  title={ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection},
-  author={Hu, Lei and Gan, Zhiyong and Deng, Ling and Liang, Jinglin and Liang, Lingyu and Huang, Shuangping and Chen, Tianshui},
-  journal={arXiv preprint arXiv:2505.06603},
-  year={2025}
+@inproceedings{ijcai2025p328,
+  title     = {ReplayCAD: Generative Diffusion Replay for Continual Anomaly Detection},
+  author    = {Hu, Lei and Gan, Zhiyong and Deng, Ling and Liang, Jinglin and Liang, Lingyu and Huang, Shuangping and Chen, Tianshui},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {2946--2954},
+  year      = {2025},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2025/328},
+  url       = {https://doi.org/10.24963/ijcai.2025/328},
 }
 ```
 
